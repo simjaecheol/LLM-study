@@ -1,0 +1,6 @@
+peft
+evaluate
+transformers
+datasets
+jupyter
+notebook
