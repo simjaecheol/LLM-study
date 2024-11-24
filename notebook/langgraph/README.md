@@ -83,3 +83,5 @@
 ## Tutorial
 
 ## Multi Agents Collaboration
+
+## Supervisor Example
