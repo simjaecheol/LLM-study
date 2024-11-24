@@ -4,3 +4,10 @@ transformers
 datasets
 jupyter
 notebook
+python-dotenv
+langchain
+langchain_core
+langchain_openai
+langchain_community
+langchian_experimental
+langgraph
